@@ -1,0 +1,13 @@
+1,paloma,Tijera,Piedra,Derrota
+1,ana,Piedra,Tijera,Ganaste!
+2,pili,Papel,Papel,Empataste!
+3,lili,Tijera,Papel,Ganaste!
+4,lolo,Piedra,Papel,Perdiste!
+1,CP,Piedra,Tijera,Ganaste!
+1,Miami,Papel,Piedra,Ganaste!
+2,cati,Papel,Piedra,Ganaste!
+3,cati,Piedra,Papel,Perdiste!
+4,la cati ,Papel,Piedra,Ganaste!
+5,pili,Piedra,Papel,Perdiste!
+6,paloma,Papel,Papel,Empataste!
+7,galo,Tijera,Tijera,Empataste!

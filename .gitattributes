@@ -1,0 +1,28 @@
+# ====================================================================
+# Configuración de Normalización de Saltos de Línea y Tipos de Archivo
+# E.E.S.T. N° 999 "Österreichische Schule der Nationalökonomie" — Laboratorio de Programación 2026
+# ====================================================================
+
+# Normalización automática de texto a LF en Git
+* text=auto eol=lf
+
+# Código fuente C++ (Windows PowerShell / MinGW exige compatibilidad)
+*.cpp text eol=crlf
+*.h text eol=crlf
+*.hpp text eol=crlf
+
+# Archivos de configuración y documentación
+*.md text eol=lf
+*.txt text eol=crlf
+*.json text eol=lf
+*.yml text eol=lf
+
+# Archivos Binarios (Imágenes, Ejecutables, PDFs)
+*.exe binary
+*.dll binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.doc binary
+*.docx binary

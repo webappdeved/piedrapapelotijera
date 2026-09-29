@@ -1,0 +1,21 @@
+# Executables
+*.exe
+*.out
+*.app
+*.bin
+
+# C++ Object and Linker files
+*.o
+*.obj
+
+# VS Code directory
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
