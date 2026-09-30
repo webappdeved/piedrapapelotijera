@@ -11,3 +11,4 @@
 5,pili,Piedra,Papel,Perdiste!
 6,paloma,Papel,Papel,Empataste!
 7,galo,Tijera,Tijera,Empataste!
+1,Pepa Pig,Piedra,Tijera,Ganaste!
