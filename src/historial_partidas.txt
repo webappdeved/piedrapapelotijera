@@ -12,3 +12,7 @@
 6,paloma,Papel,Papel,Empataste!
 7,galo,Tijera,Tijera,Empataste!
 1,Pepa Pig,Piedra,Tijera,Ganaste!
+1,disco,Piedra,Tijera,Ganaste!
+2,mrti,Tijera,Papel,Ganaste!
+3,ju,Papel,Piedra,Ganaste!
+4,la cati,Papel,Tijera,Perdiste!
