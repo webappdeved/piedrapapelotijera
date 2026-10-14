@@ -1,10 +1,10 @@
-# 📜 Bitácora de Cambios (CHANGELOG) — Actividad 7
+# 📝 HISTORIAL DE CAMBIOS (CHANGELOG) — ACTIVIDAD 7
 
-Todos los cambios notables en el proyecto **piedrapapelotijera** se documentan en este archivo siguiendo el formato [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/) y el estándar de versionado semántico [SemVer](https://semver.org/).
+Todos los cambios notables realizados en el proyecto **piedrapapelotijera** con Persistencia en Disco se documentan en este archivo siguiendo el formato [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/) y el estándar de versionado semántico [SemVer](https://semver.org/).
 
-## [1.0.0] - 2026-09-29
+## [1.0.0] - 2026-10-09
 
-### Agregado
+### 🚀 Añadido (Added)
 - Implementación de la estructura `struct Partida` para empaquetar variables del juego.
 - Redirección y soporte flexible de persistencia para la subcarpeta `src/historial_partidas.txt` o la raíz.
 - Módulo `guardarEnDisco()` utilizando `ofstream` con bandera `ios::app` para almacenamiento no volátil.

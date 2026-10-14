@@ -16,3 +16,9 @@
 2,mrti,Tijera,Papel,Ganaste!
 3,ju,Papel,Piedra,Ganaste!
 4,la cati,Papel,Tijera,Perdiste!
+1,doc,Tijera,Piedra,Perdiste!
+2,ines,Piedra,Piedra,Empataste!
+3,pepi,Piedra,Tijera,Ganaste!
+4,natu,Papel,Piedra,Ganaste!
+5,gordo,Papel,Papel,Empataste!
+1,Leo,Piedra,Tijera,Ganaste!
