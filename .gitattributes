@@ -1,7 +1,7 @@
-# ====================================================================
+# =================================================================================================
 # Configuración de Normalización de Saltos de Línea y Tipos de Archivo
 # E.E.S.T. N° 999 "Österreichische Schule der Nationalökonomie" — Laboratorio de Programación 2026
-# ====================================================================
+# =================================================================================================
 
 # Normalización automática de texto a LF en Git
 * text=auto eol=lf
