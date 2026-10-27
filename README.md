@@ -27,15 +27,16 @@ piedrapapelotijera/
 ├── LICENSE                         <-- Licencia MIT de uso escolar
 ├── README.md                       <-- Portada técnica del proyecto
 ├── docs/                           <-- Entregables formales
-│   ├── CHANGELOG.md                <-- Bitácora de versionado SemVer
 │   ├── InformeEEST1_LPR2026_ACT07_G03_Informe_v1.0.0.pdf <-- Informe en PDF (APA v7)
 │   └── manuales/                   <-- Documentación técnica y de usuario
 │       ├── manualdelProgramadorv1.0.0.pdf
 │       ├── manualdelProgramadorv1.0.0.md
 │       └── manualdelUsuariov1.0.0.pdf
 │       └── manualdelUsuariov1.0.0.md
+├── CHANGELOG.md                <-- Bitácora de versionado SemVer
 ├── src/                            <-- Código fuente C++
 │   ├── main.cpp                    <-- Programa principal del juego
+├── data/                            <-- Para archivos persistentes
 │   └── historial_partidas.txt      <-- Archivo de almacenamiento en disco
 └── capturas/                       <-- Evidencias de ejecución (.png)
     ├── jugada_consola.png
